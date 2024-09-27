@@ -1,0 +1,1 @@
+This repo contains everything used/created for a text analytic project completed as part of a master's program curriculum at the Institute for Advanced Analytics. This was a team project that involved collaboration from 5 members. 
