@@ -1,1 +1,1 @@
-This repo contains everything used/created for a text analytic project completed as part of a master's program curriculum at the Institute for Advanced Analytics. The project was completed using Python and various packages, which will be listed as time progresses. 
+This repo contains everything used/created for a text analytic project completed as part of a master's program curriculum at the Institute for Advanced Analytics. The project was completed using Python. 
